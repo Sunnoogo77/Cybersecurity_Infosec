@@ -37,10 +37,8 @@ Ce projet vise à clarifier les **distinctions fondamentales** entre la **cybers
 2. **Supports Visuels**  
    - Une présentation professionnelle, enrichie de graphiques et de visuels impactants.  
 
-3. **Contenu LinkedIn**  
-   - Un post engageant et synthétique conçu pour un **public professionnel** sur LinkedIn.  
 
-4. **Références Fiables**  
+3. **Références Fiables**  
    - Une collection organisée de ressources et de lectures complémentaires pour approfondir le sujet.  
 
 ---
@@ -58,44 +56,6 @@ Les ressources utilisées pour ce projet incluent :
 
 ---
 
-## 🎨 **Guide d'Utilisation**  
-
-### 1. Clonez le Dépôt  
-```bash
-git clone https://github.com/<votre-utilisateur>/cybersécurité-vs-info-sécurité.git
-cd cybersécurité-vs-info-sécurité
-```  
-
-### 2. Structure des Dossiers  
-- **`docs/`** : Notes de recherche, résumés et questions.  
-- **`présentation/`** : Diapositives et visuels pour les présentations.  
-- **`publication/`** : Brouillon et version finale pour LinkedIn.  
-- **`notion/`** : Suivi des tâches et export des notes.  
-
-### 3. Personnalisez les Fichiers  
-- **Ajoutez vos contributions** dans `docs/` pour enrichir les notes ou les ressources.  
-- **Adaptez les diapositives** dans `présentation/` pour correspondre à votre style.  
-- **Finalisez le contenu LinkedIn** dans `publication/`.  
-
----
-
-## 🗂️ **État d'Avancement**  
-
-| **Tâche**                      | **Statut**      | **Responsable**      | **Notes**                     |  
-|--------------------------------|-----------------|----------------------|-------------------------------|  
-| Recherche documentaire         | En cours        | Votre Nom            | Collecter les définitions clés. |  
-| Rédaction du contenu           | À démarrer      | Votre Nom            | Organiser les points majeurs.  |  
-| Préparation des diapositives   | À démarrer      | Votre Nom            | Ajouter des graphiques pertinents. |  
-| Publication LinkedIn           | À démarrer      | Votre Nom            | Rédaction et relecture finale. |  
-
----
-
-## 👨‍💻 **Contributions**  
-
-- **Votre Nom** : Responsable de la recherche, rédaction et conception.  
-- **Équipe SOC** : Contribution et révision du contenu.  
-
----
 
 ## 🎯 **Objectifs à Long Terme**  
 
@@ -109,5 +69,5 @@ cd cybersécurité-vs-info-sécurité
 
 Pour toute question, suggestion ou collaboration, n'hésitez pas à me contacter via :  
 
-- **[LinkedIn](https://www.linkedin.com/in/votre-profil/)**  
-- **[GitHub](https://github.com/votre-utilisateur)**  
+- **[LinkedIn](https://www.linkedin.com/in/sunnoogo-caleb-tapsoba-130584292/)**  
+- **[GitHub](https://github.com/Sunnoogo77)**  
