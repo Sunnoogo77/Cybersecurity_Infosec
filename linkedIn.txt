@@ -1,0 +1,51 @@
+### **💡 Clarifier la différence entre Cybersécurité et Sécurité de l’Information (Infosec) 🔍**
+
+Lorsque j’ai commencé à m’intéresser à la cybersécurité, j’étais loin d’imaginer qu’une grande partie de ce que je considérais comme appartenant à ce domaine relevait en fait de la sécurité de l’information (Infosec). 🤔 Grande fut ma surprise lorsque j’ai découvert la distinction ! 🌟
+
+---
+
+### **Cybersécurité et Sécurité de l’Information : Les grandes différences**  
+
+1️⃣ **Sécurité de l’Information (Infosec)**  
+L’Infosec se concentre sur **la protection des données**, qu’elles soient physiques ou numériques. Elle couvre :  
+- **Cryptographie** : Garantir la confidentialité des données (ex : chiffrer un email).  
+- **Ethical Hacking** : Identifier et corriger les failles pour protéger les informations.  
+- **Gestion des accès** : Contrôler qui peut accéder aux informations sensibles.  
+
+📍 **L’objectif principal** : protéger l’intégrité, la confidentialité et la disponibilité de l’information, quel que soit le support.
+
+2️⃣ **Cybersécurité**  
+La cybersécurité est une **sous-discipline de l’Infosec**, mais elle se concentre sur les menaces **dans le cyberespace**. Elle inclut :  
+- Les systèmes de détection et réponse aux intrusions (SOC/SIR).  
+- La protection des infrastructures critiques (pare-feux, réseaux).  
+- La lutte contre les cyberattaques provenant d’Internet (DDoS, ransomware).  
+
+📍 **L’objectif principal** : se défendre contre les menaces numériques.
+
+---
+
+### **Pourquoi cette distinction est-elle importante ?**  
+De nos jours, beaucoup pensent que la cybersécurité englobe tout, mais ce n’est pas tout à fait vrai. En fait :  
+🔑 **Tout ce qui est cybersécurité est de l’Infosec, mais tout ce qui est Infosec n’est pas forcément de la cybersécurité.**  
+
+---
+
+### **Mon travail sur ce sujet**  
+Pour mieux comprendre et expliquer ces concepts, j’ai créé un document explorant ces différences.  
+📂 **Lien GitHub** : [Disponible bientôt](https://github.com/Sunnoogo77/Cybersecurity_Infosec).  
+Je détaille également comment des domaines comme le **Cloud** jouent un rôle essentiel en cybersécurité (par ex. sécurisation des services cloud).  
+
+---
+
+### **Sensibilisation : Ce n’est pas infaillible**  
+Que ce soit dans la cybersécurité ou l’Infosec, il est crucial de comprendre qu’aucune méthode de défense n’est infaillible. Les menaces évoluent constamment, et il faut donc :  
+- **Adopter une approche proactive** : tester régulièrement les systèmes.  
+- **Former les utilisateurs** : la plupart des attaques (phishing, ransomware) exploitent des erreurs humaines.  
+- **Mettre en place des stratégies multi-couches** : par exemple, combiner firewalls, MFA, et surveillance SOC.  
+
+---
+
+### **Échangeons ensemble !**  
+Connaissiez-vous ces différences entre cybersécurité et Infosec ? 💬 Je serais ravi d’avoir vos retours et d’échanger sur ces sujets passionnants ! 😊
+
+---
