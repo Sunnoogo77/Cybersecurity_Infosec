@@ -7,28 +7,6 @@ Ce projet vise à clarifier les **distinctions fondamentales** entre la **cybers
 
 ---
 
-## 🛠️ **Contenu du Dépôt**  
-
-```plaintext
-📂 cybersécurité-vs-info-sécurité/
-├── 📁 docs/                    # Documents de recherche
-│   ├── notes.md                # Notes et résumés de recherche
-│   ├── ressources.md           # Liste des ressources utilisées
-│   └── questions.md            # Questions potentielles pour la présentation
-├── 📁 présentation/            # Supports de présentation
-│   ├── slides.pptx             # Diaporama pour l'exposé
-│   └── images/                 # Images et graphiques pour la présentation
-├── 📁 publication/             # Contenu pour LinkedIn
-│   ├── draft.md                # Brouillon du post LinkedIn
-│   └── final.md                # Version finale du post
-├── 📁 notion/                  # Export de la page Notion
-│   ├── notion-page.html        # Export HTML
-│   └── notion-tasks.csv        # Suivi des tâches au format CSV
-└── README.md                   # Documentation principale
-```
-
----
-
 ## ✨ **Fonctionnalités Clés**  
 
 1. **Comparaison Détaillée**  
